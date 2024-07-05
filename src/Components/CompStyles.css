@@ -1,0 +1,65 @@
+.Appbar-background {
+  background-color: #285991;
+  width: 100%;
+  border-bottom-right-radius: 2%;
+  border-bottom-left-radius: 2%;
+  color: white;
+  text-align: center;
+}
+.App-background {
+  background-color: #1e242c;
+  color: white;
+  flex-grow: 1;
+}
+.Title {
+  font-size: 200%;
+  font-weight: 600;
+}
+.Select-btn {
+  border: none;
+  background-color: rgba(255, 255, 255, 0);
+  margin-left: 2%;
+  margin-top: -1vw;
+  font-size: 100%;
+}
+.Submit-btn {
+  margin-left: 2%;
+  margin-top: 0.5%;
+  border: none;
+  color: black;
+  background-color: rgb(255, 255, 255);
+  border-radius: 1vw;
+  font-size: 100%;
+}
+.Input {
+  width: 60%;
+  overflow: "hidden";
+  border: solid, black, 0.2cm;
+  border-radius: 1vw;
+  flex-wrap: wrap;
+  resize: none;
+  margin-bottom: 0.5%;
+}
+.Experience-head {
+  font-size: 50%;
+  font-weight: 600;
+  margin-left: 2%;
+  padding: none;
+}
+.Experience-back {
+  border-radius: 1vw;
+  border: solid black 0.2vw;
+  margin-top: 1vw;
+  text-align: left;
+  height: 10%;
+  width: 99%;
+  overflow: auto;
+}
+.Experience-txt {
+  font-size: 10%;
+}
+.Container {
+  max-height: 90vh; /* Ensure the container does not exceed the viewport height */
+  overflow-y: auto; /* Make the container scrollable */
+  padding-bottom: 3rem; /* Provide space for the fixed button */
+}

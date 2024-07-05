@@ -1,0 +1,49 @@
+.Name {
+  color: royalblue;
+  font-size: 25px;
+  text-align: center;
+  font-weight: 600;
+  margin: none;
+  padding: none;
+  height: 0px;
+}
+.Information-box {
+  width: 6in;
+  height: 5px;
+  font-size: 10px;
+  text-align: center;
+  margin-top: 4vw;
+}
+.Information {
+  text-align: center;
+  margin-right: 8%;
+  margin-left: 1%;
+  color: black;
+}
+.Section-head {
+  color: royalblue;
+  font-size: 14px;
+  font-weight: 700;
+  text-align: left;
+  margin-left: 0.2cm;
+  height: 0;
+  padding-bottom: 0.04in;
+}
+
+.Section-title {
+  color: black;
+  font-weight: 500;
+  height: 0;
+  font-size: 8px;
+  text-align: left;
+  margin-left: 0.2cm;
+  padding-bottom: 0.1cm;
+}
+.Section-content {
+  color: black;
+  width: 5in;
+  text-align: left;
+  margin-left: -0.5in;
+  font-size: 8px;
+  margin-bottom: 0.1cm;
+}
