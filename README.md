@@ -1,6 +1,5 @@
-# Resu-Maker 
+# Resu-Maker A resume creation tool
 **Note**: This was my first ever React project, I didn't focus on styling 😬 which is probably pretty obvious. Nonetheless, this project was an incredible learning experience and taught me all I wanted to learn to create my portfolio website.
-**A tool which makes iterating upon your resume easy**
 ## Features:
 -**Add Sections**: Add information to sections you want on your resume (volunteer, work, skills, projects, etc)
 -**100% on device**: Don't be afraid to store personal information in this tool as it all runs on device through a local database.
